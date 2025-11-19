@@ -1,7 +1,7 @@
 {
   "name": "com.directinput.unity",
   "displayName": "DirectInput",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "unity": "2017.0",
   "description": "Native Plugin to expose DirectX DirectInput & ForceFeedback",
   "documentationUrl": "https://github.com/imDanoush/Unity-DirectInput",
@@ -37,7 +37,7 @@
       "displayName": "Fundamental Example",
       "description": "Use this demo to understand how to use the Direct Input API for DirectInput and ForceFeedback Devices using its IMGUI-based UI covering all the features.",
       "path": "Samples~/example"
-	},
+    },
     {
       "displayName": "Simple UGUI Example",
       "description": "An sample scene to learn and actually use this in your projects using a simple key-binding UGUI menu with understanding the key points!",
